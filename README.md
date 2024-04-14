@@ -5,4 +5,4 @@ Importing Data, Data Wrangling, Exploratory Data Analysis, Model Development, Mo
 
 Statistical Models used: Multiple Linear Regression, Polynomial Regression, Ridge Regression
 
-Python libraries used: Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn.
+Python Libraries used: Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn.
