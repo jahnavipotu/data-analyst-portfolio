@@ -7,6 +7,7 @@ Statistical Models used: Multiple Linear Regression, Polynomial Regression, Ridg
 
 Python Libraries used: Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn.
 
+
 # Project 2: Seattle Airbnb Open data Visualization Using Tableau 
 Created effective visualizations and dashboard in Tableau using Seattle Airbnb Open data. Answered some analytical questions like Which Zipcode charges the most on average?, Which times of year is best to rent airbnbs?, Average Price Per Bedroom, Distinct Count of Bedroom Listings.
 
