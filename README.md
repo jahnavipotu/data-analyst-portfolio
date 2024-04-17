@@ -6,3 +6,7 @@ Importing Data, Data Wrangling, Exploratory Data Analysis, Model Development, Mo
 Statistical Models used: Multiple Linear Regression, Polynomial Regression, Ridge Regression
 
 Python Libraries used: Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn.
+
+# Project 2: Seattle Airbnb Open data
+Created effective visualizations and dashboard in Tableau using Seattle Airbnb Open data.
+Answered questions like Which Zipcode charges the most on average?, Which times of year is best to rent airbnbs?, Average Price Per Bedroom, Distinct Count of Bedroom Listings.
