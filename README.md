@@ -11,4 +11,4 @@ Python Libraries used: Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn.
 Created effective visualizations and dashboard in Tableau using Seattle Airbnb Open data.
 Answered questions like Which Zipcode charges the most on average?, Which times of year is best to rent airbnbs?, Average Price Per Bedroom, Distinct Count of Bedroom Listings.
 
-![Dashboard](https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/Screenshot%20(19).png)
+<img src="https://github.com/jahnavipotu/data-analyst-portfolio/raw/main/Screenshot%20(19).png" alt="Dashboard" width="600">
