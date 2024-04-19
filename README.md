@@ -13,6 +13,7 @@ Created effective visualizations and dashboard in Tableau using Seattle Airbnb O
 
 <img src="https://github.com/jahnavipotu/data-analyst-portfolio/raw/main/Screenshot%20(19).png" alt="Dashboard" width="600">
 
+
 # [Project 3: Data Cleaning in MySQL Using World Layoffs Dataset starting 2021](https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/Project%201.sql)
 Performed Data Cleaning in the World Layoffs Dataset to get it in a more usable format by fixing a lot of the issues in the Raw data. 
 
