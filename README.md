@@ -17,7 +17,7 @@ Created effective visualizations and dashboard in Tableau using Seattle Airbnb O
 # [Project 3: Data Cleaning in MySQL Using World Layoffs Dataset starting 2021](https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/Project%201.sql)
 Performed Data Cleaning in the World Layoffs Dataset to get it in a more usable format by fixing a lot of the issues in the Raw data. 
 
-Removed Duplicates.
+Removed Duplicate records in the data.
 
 Standardized the Data- Found issues in my data and fixed it. Formatted date column from text to date and changed it's datatype, used trim on copmany column, identified and fixed errors in industry and country columns.
 
