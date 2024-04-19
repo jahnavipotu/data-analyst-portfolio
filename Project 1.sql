@@ -73,7 +73,7 @@ WHERE country LIKE "United States.";
 
 UPDATE layoffs_staging2
 SET country = TRIM(TRAILING '.' FROM country)
-WHERE country LIKE "United Statelayoffs_staging2s%";
+WHERE country LIKE "United States%";
 
 SELECT date, STR_TO_DATE(date, '%m/%d/%Y')
 FROM layoffs_staging2;
