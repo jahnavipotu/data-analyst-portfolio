@@ -19,8 +19,8 @@ Performed Data Cleaning in the World Layoffs Dataset to get it in a more usable 
 
 Removed Duplicate records in the data using ROW_NUMBER().
 
-Standardized the Data- Found issues in my data and fixed it. Formatted date column from text to date and changed it's datatype, used trim on copmany column, identified and fixed errors in industry and country columns.
+Standardized the Data- Formatted date column from text to date and changed it's datatype, used trim on company column, identified and fixed errors in industry and country columns.
 
-Dealed with Null Values or blank values- populated missing values for column like industry and removed rows with missing values for columns like total_laid_off, percentage_laid_off.
+Dealed with Null Values or Blank Values- Populated missing values for column like industry, removed rows with missing values for columns like total_laid_off and percentage_laid_off.
 
 Removed Any redundant Columns.
