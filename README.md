@@ -3,7 +3,7 @@ The focus of the project is to analyze the predominant environmental pollutant, 
 
 Identifying the greenhouse gas that will be the major cause of concern for global warming. Despite N2O and CH4 having higher heat-trapping capacities, CO2’s vast emission volumes make it the primary focus in combating global warming.
 
-<img src="https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/3.png" alt="image1" width="400">
+<img src="https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/3.png" alt="image1" width="200">
 
 Overall in the US, the Top Contributor to CO2 Emissions is the “Transportation Sector", followed closely by the "Electric Power Sector".
 
