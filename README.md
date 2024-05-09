@@ -3,12 +3,12 @@ The focus of the project is to analyze the predominant environmental pollutant, 
 
 Identifying the greenhouse gas that will be the major cause of concern for global warming. Despite N2O and CH4 having higher heat-trapping capacities, CO2’s vast emission volumes make it the primary focus in combating global warming.
 
-<img src="https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/3.png" alt="image1" width="600">
+<img src="https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/3.png" alt="image1" width="400">
 
 Overall in the US, the Top Contributor to CO2 Emissions is the “Transportation Sector", followed closely by the "Electric Power Sector".
 
 
-<img src="https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/1.png" width="600">
+<img src="https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/1.png" width="400">
 
 In the transportation sector, especially automobiles that contribute to CO2 emissions, developed a predictive model that will take in inputs such as vehicle Mileage, model, brand, Engine Size, number of cylinders, type of fuel used and will return a predicted output for the CO2 emissions. 
 
@@ -16,13 +16,13 @@ After modeling various machine learning techniques, it was observed that the Ran
 
 <img src="https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/2.png" width="400">
 
-<img src="https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/7.png" width="600">
+<img src="https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/7.png" width="400">
 
-<img src="https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/4.png" width="600">
+<img src="https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/4.png" width="400">
 
-<img src="https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/5.png" width="600">
+<img src="https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/5.png" width="400">
 
-<img src="https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/6.png" width="600">
+<img src="https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/6.png" width="400">
 
 This predictive model, as showcased in the provided interface, can be highly beneficial for vehicle manufacturers during the initial stages of ideation and design.By embedding this predictive model into the early stages of vehicle design and development, manufacturers not only enhance their capacity to produce environmentally friendly vehicles but also streamline their design processes and align closely with global trends toward emission reductions. 
 
