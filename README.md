@@ -15,9 +15,9 @@ After modeling various machine learning techniques, it was observed that the Ran
 
 <img src="https://github.com/jahnavipotu/data-analyst-portfolio/raw/main/2.png" alt="Dashboard" width="600">
 
-<img src="https://github.com/jahnavipotu/data-analyst-portfolio/raw/main/6.png" alt="Dashboard" width="600">
-
 <img src="https://github.com/jahnavipotu/data-analyst-portfolio/raw/main/7.png" alt="Dashboard" width="600">
+
+<img src="https://github.com/jahnavipotu/data-analyst-portfolio/raw/main/6.png" alt="Dashboard" width="600">
 
 <img src="https://github.com/jahnavipotu/data-analyst-portfolio/raw/main/4.png" alt="Dashboard" width="600">
 
