@@ -7,6 +7,7 @@ Identifying the greenhouse gas that will be the major cause of concern for globa
 
 Overall in the US, the Top Contributor to CO2 Emissions is the “Transportation Sector", followed closely by the "Electric Power Sector".
 
+
 <img src="https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/1.png" width="600">
 
 In the transportation sector, especially automobiles that contribute to CO2 emissions, developed a predictive model that will take in inputs such as vehicle Mileage, model, brand, Engine Size, number of cylinders, type of fuel used and will return a predicted output for the CO2 emissions. 
