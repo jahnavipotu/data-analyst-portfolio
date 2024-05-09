@@ -2,7 +2,7 @@
 The focus of the project is to analyze the predominant environmental pollutant, CO2, and explore its underlying causes and sources and to develop a robust machine learning model to assist stakeholders in mitigating its impact. Created a predictive model that empowers automobile designers to forecast CO2 emissions resulting from feature modifications. Furthermore, provided consumers with insights into the environmental consequences of their vehicle choices. Data is sourced from U.S. gov Energy Information open data and Open Canada data via API Pull. 
 
 Identifying the greenhouse gas that will be the major cause of concern for global warming. Despite N2O and CH4 having higher heat-trapping capacities, CO2’s vast emission volumes make it the primary focus in combating global warming.
-<img src="https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/3.png" width="600">
+<img src="https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/3.png" alt="image1" width="600">
 
 Overall in the US, the Top Contributor to CO2 Emissions is the “Transportation Sector", followed closely by the "Electric Power Sector".
 
