@@ -7,7 +7,7 @@ In the transportation sector, especially automobiles that contribute to CO2 emis
 
 After modeling various machine learning techniques, it was observed that the Random Forest regressor provided the least error prone predictions on the test data. However, it exhibited signs of overfitting. Conversely, both Gradient Boosting and Bi-directional LSTM models demonstrated better generalization to the test data. When comparing Gradient Boosting and Bi-directional LSTM, although Gradient Boosting yielded slightly higher error rates, it was preferred due to its interpretability. Fine-tuned the Gradient boost model to improve the performance. After hyperparameter tuning, the model's error rate on the test data set was reduced from 18.24 to 9.70, which is a significant improvement.
 
-<img src="https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/4.png" width="400">
+<img src="https://github.com/jahnavipotu/data-analyst-portfolio/raw/main/Screenshot%20(19).png" alt="Dashboard" width="600">
 
 This predictive model, as showcased in the provided interface, can be highly beneficial for vehicle manufacturers during the initial stages of ideation and design.By embedding this predictive model into the early stages of vehicle design and development, manufacturers not only enhance their capacity to produce environmentally friendly vehicles but also streamline their design processes and align closely with global trends toward emission reductions. 
 
