@@ -26,7 +26,19 @@ After modeling various machine learning techniques, it was observed that the Ran
 This predictive model, as showcased in the provided interface, can be highly beneficial for vehicle manufacturers during the initial stages of ideation and design.By embedding this predictive model into the early stages of vehicle design and development, manufacturers not only enhance their capacity to produce environmentally friendly vehicles but also streamline their design processes and align closely with global trends toward emission reductions. 
 
 
-# [Project 2: House Sales in King County, USA: Data Analysis with Python project](https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/PythonDataAnalysisProject%20(1).ipynb)
+# Project 2: Customer Segmentation for a laundry startup using clustering in Tableau
+Performed Segmentation for a laundry-pickup services startup with stores in 150 locations in U.S, using variables marketing spend, revenue generated and population using clustering. Identified the top 3 stores in their 10 new stores that have the best potential to generate more revenue with less marketing spend for the company to invest more funds into marketing.
+
+<img src="https://github.com/jahnavipotu/data-analyst-portfolio/raw/main/Screenshot%20(19).png" alt="Dashboard" width="600">
+
+
+# Project 3: Seattle Airbnb Open data Visualization Using Tableau 
+Created effective visualizations and dashboard in Tableau using Seattle Airbnb Open data. Answered some analytical questions like Which Zipcode charges the most on average?, Which times of year is best to rent airbnbs?, Average Price Per Bedroom, Distinct Count of Bedroom Listings.
+
+<img src="https://github.com/jahnavipotu/data-analyst-portfolio/raw/main/Screenshot%20(19).png" alt="Dashboard" width="600">
+
+
+# [Project 4: House Sales in King County, USA: Data Analysis with Python project](https://github.com/jahnavipotu/data-analyst-portfolio/blob/main/PythonDataAnalysisProject%20(1).ipynb)
 Real Estate Investment Trust. The Trust would like to start investing in Residential real estate. Prediction of the market price of a house given a set of features. Analyze and predict housing prices using attributes or features such as square footage, number of bedrooms, number of floors, and so on. The dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015. It was taken from Kaggle.
 
 Importing Data, Data Wrangling, Exploratory Data Analysis, Model Development, Model Evaluation and Refinement
@@ -34,9 +46,3 @@ Importing Data, Data Wrangling, Exploratory Data Analysis, Model Development, Mo
 Statistical Models used: Multiple Linear Regression, Polynomial Regression, Ridge Regression
 
 Python Libraries used: Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn.
-
-
-# Project 3: Seattle Airbnb Open data Visualization Using Tableau 
-Created effective visualizations and dashboard in Tableau using Seattle Airbnb Open data. Answered some analytical questions like Which Zipcode charges the most on average?, Which times of year is best to rent airbnbs?, Average Price Per Bedroom, Distinct Count of Bedroom Listings.
-
-<img src="https://github.com/jahnavipotu/data-analyst-portfolio/raw/main/Screenshot%20(19).png" alt="Dashboard" width="600">
