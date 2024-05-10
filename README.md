@@ -29,9 +29,9 @@ This predictive model, as showcased in the provided interface, can be highly ben
 # Project 2: Customer Segmentation for a laundry startup using clustering in Tableau
 Performed Segmentation for a laundry-pickup services startup with stores in 150 locations in U.S, using variables marketing spend, revenue generated and population using clustering. Identified the top 3 stores in their 10 new stores that have the best potential to generate more revenue with less marketing spend for the company to invest more funds into marketing.
 
-<img src="https://github.com/jahnavipotu/data-analyst-portfolio/raw/main/Screenshot%20(31).png" alt="Dashboard" width="600">
+<img src="https://github.com/jahnavipotu/data-analyst-portfolio/raw/main/Screenshot%20(33).png" alt="Dashboard" width="600">
 
-<img src="https://github.com/jahnavipotu/data-analyst-portfolio/raw/main/Screenshot%20(32).png" alt="Dashboard" width="600">
+<img src="https://github.com/jahnavipotu/data-analyst-portfolio/raw/main/Screenshot%20(34).png" alt="Dashboard" width="600">
 
 
 # Project 3: Seattle Airbnb Open data Visualization Using Tableau 
