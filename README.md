@@ -31,6 +31,8 @@ Performed Segmentation for a laundry-pickup services startup with stores in 150 
 
 <img src="https://github.com/jahnavipotu/data-analyst-portfolio/raw/main/Screenshot%20(31).png" alt="Dashboard" width="600">
 
+<img src="https://github.com/jahnavipotu/data-analyst-portfolio/raw/main/Screenshot%20(32).png" alt="Dashboard" width="600">
+
 
 # Project 3: Seattle Airbnb Open data Visualization Using Tableau 
 Created effective visualizations and dashboard in Tableau using Seattle Airbnb Open data. Answered some analytical questions like Which Zipcode charges the most on average?, Which times of year is best to rent airbnbs?, Average Price Per Bedroom, Distinct Count of Bedroom Listings.
